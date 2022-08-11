@@ -1,0 +1,29 @@
+
+body {
+	margin: 0px;
+	font-family: "Crimson", serif;
+	font-family: "Roboto Slab", serif;
+}
+
+.jumbotron{
+	background-image: url("https://images.unsplash.com/photo-1472289065668-ce650ac443d2?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8cG9ydGZvbGlvJTIwaW1hZ2VzfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1");
+    background-size: cover;
+    height: 500px;
+}
+
+.btn-warning {
+	background-color: #ff9900;
+	border-radius: 10px;
+	box-shadow: 1px 2px 2px #000000 !important;
+}
+
+.btn-warning:hover {
+	background-color: #ff9900;
+
+}
+
+.footer {
+	line-height: 50px;
+	margin-bottom: 0;
+
+}
